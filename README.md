@@ -6,7 +6,7 @@ A dynamic, intelligent traffic light simulation built in Python that uses **LGPI
 
 ## 🎬 Demo
 
-👉 [Watch the demo video here](#)  
+👉 [Watch the demo video here](https://youtu.be/CT9_zkgkivo)  
 <!-- Replace '#' with the actual YouTube or video link -->
 
 ---
